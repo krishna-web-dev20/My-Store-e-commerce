@@ -1,2 +1,17 @@
 # My-Store-e-commerce
-E- commerce website built with HTML, CSS and JavaScript featuring products listing cart functionality, and responsive design.
+E-commerce Website
+
+A responsive e-commerce website with product listing and cart funcationality.
+
+Features
+-> Product listing
+-> Add to cart
+-> Remove from cart
+-> Total price calculation 
+-> responsive design
+
+Tech Stack
+-> HTML
+-> CSS
+-> JavaScript
+
